@@ -30,5 +30,12 @@ def print_intros():
     print("GitHub Goal: Learn new tools to support my students.")
     print("-" * 40)
 
+    print("Name: Quanita Adams - Shared Intro")
+    print("Role: CTE Teacher At Stratford STEM High School")
+    print("Favorite Programming Language: Python-right now")
+    print("Github Goal: Practice in this platform, then introduce to my students.")
+    print("-" * 40)
+    
+
 if __name__ == "__main__":
     print_intros()
